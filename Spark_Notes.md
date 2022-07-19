@@ -17,8 +17,8 @@ Big data is a collection of data from many different sources and is often descri
   **Hadoop**
       
    - **Google's MapReduce** : 
-   - Google solved this problem using an algorithm called MapReduce.
-   - This algorithm divides the task into small parts and assigns them to many computers, and collects the results from them which when integrated, form the result dataset.
+    - Google solved this problem using an algorithm called MapReduce.
+    - This algorithm divides the task into small parts and assigns them to many computers, and collects the results from them which when integrated, form the result dataset.
    - MapReduce program is executed in three stages they are:
       - Mapping: Mapper’s job is to process input data.Each node applies the map function to the local data.
       - Shuffle: Here nodes are redistributed where data is based on the output keys.(output keys are produced by map function).
