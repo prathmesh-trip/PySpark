@@ -92,23 +92,23 @@ Spark contains primarily four modules
 
 Other differences between the two are : 
 - **1. Performance** : 
- - Spark is faster becauses it uses RAM
- - Hadoop MapReduce stores data on multiple nodes and processes it in batches via MapReduce 
+   - Spark is faster becauses it uses RAM
+   - Hadoop MapReduce stores data on multiple nodes and processes it in batches via MapReduce 
 - **2. Cost** : 
- - Spark --> Costlier, because needs more RAM
- - Hadoop--> Cheaper, because it needs memory
+   - Spark --> Costlier, because needs more RAM
+   - Hadoop--> Cheaper, because it needs memory
 - **3. Processing** :
- - Both work in a distributed environments
- - Spark  -->  Ideal for real-time processing
- - Hadoop --> Ideal for batch processing and linear data processing
+   - Both work in a distributed environments
+   - Spark  -->  Ideal for real-time processing
+   - Hadoop --> Ideal for batch processing and linear data processing
 - **4. Scalability** :
- - Hadoop quickly scales to accommodate the demand via Hadoop Distributed File System (HDFS). 
- - Spark relies on the fault tolerant HDFS for large volumes of data.
+   - Hadoop quickly scales to accommodate the demand via Hadoop Distributed File System (HDFS). 
+   - Spark relies on the fault tolerant HDFS for large volumes of data.
 - **5. Security** :
- - Hadoop is more secure
- - Spark can integrate with Hadoop to reach a higher security level.
+   - Hadoop is more secure
+   - Spark can integrate with Hadoop to reach a higher security level.
 - **6. Machine Leanrning** :
- - Spark is the superior platform in this category because it includes MLlib, which performs iterative in-memory ML computations. 
+   - Spark is the superior platform in this category because it includes MLlib, which performs iterative in-memory ML computations. 
 
 
 ### Key Terms
